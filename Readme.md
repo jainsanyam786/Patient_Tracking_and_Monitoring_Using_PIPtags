@@ -38,7 +38,7 @@ This system ensures the security of the patient data and is highly economical co
   <img src="./Img/Setup2.png" alt="Setup2" width="500" height="500"/>  
   
 * ### Software Dependencies 
-  Installing required libraries for [PIP tag receiver](https://github.com/jainsanyam786/Patient_Tracking_and_Monitoring_Using_PIPtags/tree/main/ReceiverCode) and JavaScript code(https://github.com/jainsanyam786/Patient_Tracking_and_Monitoring_Using_PIPtags/blob/main/PIPmob.js). 
+  Installing required libraries for [PIP tag receiver](https://github.com/jainsanyam786/Patient_Tracking_and_Monitoring_Using_PIPtags/tree/main/ReceiverCode) and [JavaScript] code(https://github.com/jainsanyam786/Patient_Tracking_and_Monitoring_Using_PIPtags/blob/main/PIPmob.js). 
   
 ## Results
 * Below is the console output from Demo.
